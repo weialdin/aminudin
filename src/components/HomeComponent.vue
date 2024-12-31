@@ -62,7 +62,7 @@
           </div>
           <div class="avatar">
             <div class="image">
-              <img src="/img/slider/pic.png" alt="" />
+              <img src="require('@/public/img/slider/pic.png')" alt="" />
               <span
                 class="skills illustrator anim_moveBottom"
                 v-html="laravel"
